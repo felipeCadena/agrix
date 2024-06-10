@@ -19,4 +19,4 @@
 
 ## Descrição do banco de dados utilizado:
 
-- ![image](https://github.com/felipeCadena/agrix/assets/102549448/ed205eab-ab67-4314-b87e-9be4045e6989)
+- [image](https://github.com/felipeCadena/agrix/assets/102549448/ed205eab-ab67-4314-b87e-9be4045e6989)
